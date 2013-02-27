@@ -4,3 +4,5 @@ Change in feature branch 1.0.0
 
 some thing 
 test test test
+
+Another line
