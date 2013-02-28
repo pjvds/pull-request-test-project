@@ -1,5 +1,5 @@
 {
   "customSteps" : {
-    "apt-get-update" : "sudo apt-get update -y",
+    "apt-get-update" : "sudo apt-get update -y"
   }
 }
