@@ -3,7 +3,10 @@
     "vim"
   ],
   "pre-install" : [
-    "echo \"Hello preInstallScripts\""
+    "echo \"Hello pre-install\""
+  ],
+  "preTestScripts" : [
+    "echo \"Hello preTestScripts\""
   ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\""
