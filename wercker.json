@@ -12,6 +12,7 @@
     "echo \"Hello post-test\""
   ],
   "custom steps" : {
-    "hello world" : "echo \"Hello World\""
+    "hello world" : "echo \"Hello World\"",
+    "get code" : "echo \"break\""
   }
 }
