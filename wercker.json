@@ -8,6 +8,9 @@
   "pre-test" : [
     "echo \"Hello pre-test\""
   ],
+  "postTestScripts" : [
+    "echo \"Hello postTestScriptst\""
+  ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\""
   }
