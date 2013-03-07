@@ -2,6 +2,9 @@
   "packages" : [
     "vim"
   ],
+  "preInstallScripts" [
+    "echo \"Hello preInstallScripts\""
+  ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\""
   }
