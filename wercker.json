@@ -2,7 +2,7 @@
   "packages" : [
     "vim"
   ],
-  "preInstallScripts" : [
+  "pre-install" : [
     "echo \"Hello preInstallScripts\""
   ],
   "custom steps" : {
