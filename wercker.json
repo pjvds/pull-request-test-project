@@ -5,8 +5,8 @@
   "pre-install" : [
     "echo \"Hello pre-install\""
   ],
-  "pre-install" : [
-    "echo \"Hello preTestScripts\""
+  "pre-test" : [
+    "echo \"Hello pre-test\""
   ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\""
