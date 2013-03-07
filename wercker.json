@@ -1,5 +1,5 @@
 {
   "customSteps" : {
-    "hello world" : "echo \"Hellow World\~!\""
+    "hello world" : "echo \"Hellow World!\""
   }
 }
