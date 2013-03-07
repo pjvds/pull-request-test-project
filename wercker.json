@@ -13,6 +13,7 @@
   ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\"",
-    "get code" : "echo \"break\""
+    "get code" : "echo \"break\"",
+    "setup environment" : "echo \"break\"" 
   }
 }
