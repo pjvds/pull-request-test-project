@@ -1,4 +1,7 @@
 {
+  "packages" : [
+    "vim"
+  ],
   "custom steps" : {
     "hello world" : "echo \"Hello World\""
   }
