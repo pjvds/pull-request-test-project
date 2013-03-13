@@ -1,7 +1,4 @@
 {
-  "packages" : [
-    "vim"
-  ],
   "pre-install" : [
     "echo \"Hello pre-install\""
   ],
