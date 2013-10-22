@@ -11,4 +11,4 @@ force build
 
 Another test
 
-test 7 8 123
+test 7 8 123 123
