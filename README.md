@@ -11,4 +11,4 @@ force build
 
 Another test
 
-test 0
+test 0 1
